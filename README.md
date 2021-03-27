@@ -1,5 +1,5 @@
 # Instagramrecreation
-# Project 5 - *Instagram*
+# Project 6 - *Instagram*
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
